@@ -1,1 +1,5 @@
 feature one
+
+some other feature
+
+and yet another feature
