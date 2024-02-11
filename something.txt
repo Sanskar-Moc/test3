@@ -3,3 +3,5 @@ feature one
 some other feature
 
 and yet another feature
+
+and yet yet another new feature
